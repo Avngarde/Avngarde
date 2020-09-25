@@ -1,4 +1,4 @@
-### Hi there, im Kamil and im a Full Stack Developer 👋
+### Hey there, im Kamil and im a Full Stack Developer 👋
 
 <!--
 **Avngarde/Avngarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
