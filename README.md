@@ -1,7 +1,7 @@
 ### <p align="center">👋Hey there, Im Kamil and Im a Full Stack Developer 👋</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avngarde&count_private=true&theme=cobalt"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=Avngarde&count_private=true&theme=radical"></img>
 </p>
 <p align="center">Skills: Node, Express, Go, React, TypeScript, Python, Electron, MongoDB, React Native</a>
 <!--
