@@ -1,5 +1,8 @@
-### 👋Hey there, Im Kamil and Im a Full Stack Developer 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Avngarde&count_private=true&theme=synthwave"></img>
+### <p align="center">👋Hey there, Im Kamil and Im a Full Stack Developer 👋</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avngarde&count_private=true&theme=cobalt"></img>
+</p>
 <p align="center">Skills: Node, Express, Go, React, TypeScript, Python, Electron, MongoDB, React Native</a>
 <!--
 **Avngarde/Avngarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
