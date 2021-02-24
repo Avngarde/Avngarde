@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Avngarde&count_private=true&theme=radical"></img>
 </p>
 <br>
-### Skills: 
+### <p>Skills</p>
 <!--
 **Avngarde/Avngarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
