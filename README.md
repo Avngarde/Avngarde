@@ -5,16 +5,6 @@
 </p>
 <br>
 ## Skills: 
-  <li>Node</li>
-  Express,
-  Go,
-  React 
-  TypeScript 
-  Python 
-  Electron 
-  MongoDB 
-  React Native
-</a>
 <!--
 **Avngarde/Avngarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
