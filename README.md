@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Avngarde&count_private=true&theme=radical"></img>
 </p>
 <br>
-<p align="center">Skills: 
+<p>Skills: 
   <li>Node</li>
   Express,
   Go,
