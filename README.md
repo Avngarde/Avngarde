@@ -4,7 +4,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Avngarde&count_private=true&theme=radical"></img>
 </p>
 <br>
-<p align="center">Skills: Node, Express, Go, React, TypeScript, Python, Electron, MongoDB, React Native</a>
+<p align="center">Skills: 
+  <li>Node</li>
+  Express,
+  Go,
+  React 
+  TypeScript 
+  Python 
+  Electron 
+  MongoDB 
+  React Native
+</a>
 <!--
 **Avngarde/Avngarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
