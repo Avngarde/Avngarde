@@ -4,7 +4,7 @@
   Im 19 years old developer who's currently developing in C# and TypeScript/JavaScript. Besides programming my interest are mostly HEMA (Historical European Martial Arts) ⚔️, collecting vinyls 💿 and riding a bike 🚲. Feel free to contact me.
 </p>
 
-<b>My Fiverr: https://www.fiverr.com/shamandev?up_rollout=true</b>
+<b>My Fiverr: https://www.fiverr.com/shamandev</b>
 
 <br>
 <p align="center">
