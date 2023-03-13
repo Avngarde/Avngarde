@@ -4,6 +4,7 @@
   Currently a .NET Developer at EIB S.A.
   Personally in love with Flutter, Go and Svelte, which I use to develop my own projects.
   <br>
+  <br>
   <b>Languages:</b>
   <ul>
     <li>Go</li>
@@ -11,7 +12,6 @@
     <li>JavaScript/TypeScript</li>
     <li>Dart</li>
   </ul>
-  <br>
     <b>Technologies:</b>
   <ul>
     <li>ASP.NET</li>
@@ -22,7 +22,7 @@
     <li>Mongo</li>
     <li>SQL Server</li>
   </ul>
-   <b>Hobbies:</b>
+  <b>Hobbies:</b>
   <ul>
     <li>Historical Medieval Battles ⚔️</li>
     <li>Calisthenics 🤸‍♂️</li>
