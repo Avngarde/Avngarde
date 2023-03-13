@@ -1,7 +1,7 @@
 ### <p>Hey there, Im Kamil 👋</p>
 <br>
 <p>
-  Currently a .NET Developer at EIB S.A.
+  Currently a .NET Developer at EIB S.A.<br>
   Personally in love with Flutter, Go and Svelte, which I use to develop my own projects.
   <br>
   <br>
