@@ -1,7 +1,7 @@
 ### <p>Hey there, Im Kamil 👋</p>
 <p>
   I'm a young passionate software developer with a head full of ideas.<br>
-  Icurrently work as a Junior .NET Developer at EIB S.A.
+  I currently work as a Junior .NET Developer at EIB S.A.
   <br>
   <br>
   <b>Languages:</b>
